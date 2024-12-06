@@ -69,7 +69,7 @@ export const Pricing = () => {
         <SectionBorder borderTop className="py-24 lg:py-48 md:py-36 md:px-20">
           <SectionContent>
             <h2 className="text-3xl md:text-4xl lg:text-5xl leading-tight font-semibold text-center text-gray-300">
-              We've got the plans for your need
+              We&apos;ve got the plans for your need
             </h2>
             <div className="mt-12 grid grid-cols-1 lg:grid-cols-3 gap-8 lg:items-start">
               {pricingTiers.map((tier) => (
