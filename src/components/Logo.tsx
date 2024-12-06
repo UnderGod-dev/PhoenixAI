@@ -1,4 +1,4 @@
-import logoImage from "@/assets/images/Sphereal-logo.svg?url";
+import logoImage from "@/assets/images/sphereal-logo.svg?url";
 import { HTMLAttributes } from "react";
 import { twMerge } from "tailwind-merge";
 const Logo = (props: HTMLAttributes<HTMLDivElement>) => {
